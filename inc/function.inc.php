@@ -1,3 +1,3 @@
 <?php
-  // all global functions goes here. 
+  // all global php functions goes here. 
 ?>
