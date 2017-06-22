@@ -1,0 +1,1 @@
+// all Global JS functions goes here
