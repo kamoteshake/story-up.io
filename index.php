@@ -1,4 +1,4 @@
-<?php include __DIR__.'/inc/header.inc.php;' ?>
+<?php include __DIR__.'/inc/header.inc.php'; ?>
 <?php
   echo '<div>Hello World!</div>';
 ?>
