@@ -1,0 +1,102 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: neou;
+}
+
+body {
+    background-color: #222;
+    color: white;
+    font-family: Roboto;
+}
+
+.login_border {
+    border: 2px solid white;
+    border-radius: 50px;
+    padding: 10px 40px;
+}
+
+.account_links_link {
+    margin: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+span>a:hover {
+    color: limegreen;
+    transition-duration: 0.5s;
+}
+
+.navbar {
+    min-height: 60px;
+    display: flex;
+    font-size: 20px;
+    font-family: neou;
+    align-items: center;
+    padding: 20px;
+}
+
+.navbar > div {
+    flex: 1;
+}
+
+.navbar_logo {
+    overflow: hidden;
+    max-height: 80px;
+    color: black;
+}
+
+.account_links {
+    text-align: right;
+    margin: 10px;
+}
+
+.footer {
+    width: 100%;
+    font-family: neou;
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.wrapper {
+    padding: 30px;
+    
+}
+
+.main_image {
+    /**ony for main page**/
+    text-align: center;
+    padding: 10px;
+}
+
+.howItWorksButtonDiv{
+    text-align: center;
+    padding: 25px 0;
+}
+
+.howButton{
+    /*border: 3px solid white;*/
+    border-radius: 50px;
+    padding: 11px 40px;
+    font-size: 20px;
+    background-color: forestgreen;
+}
+
+.howButton:hover{
+    
+    background-color: white;
+    color: #222;
+    transition-duration: 1s;
+}
+
+
+
+
+img>#mainLogo:hover{
+    
+}
+
